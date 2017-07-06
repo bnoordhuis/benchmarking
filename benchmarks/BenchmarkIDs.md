@@ -9,3 +9,4 @@
 * 7 - acme air pre footprint
 * 8 - acme air post footprint
 * 9 - octane
+* 10 - uglify-js
